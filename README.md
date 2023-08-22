@@ -1,7 +1,8 @@
 # Sql-Project
-##Music Store Analysis##
+# Music Store Analysis #
 
 Datasets
+
 [album.csv](https://github.com/chirag481/Sql-Project/files/12404515/album.csv)
 
 [artist.csv](https://github.com/chirag481/Sql-Project/files/12404517/artist.csv)
