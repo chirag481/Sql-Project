@@ -27,3 +27,17 @@ Datasets
 
 Database Schema:
 <img width="594" alt="schema_diagram" src="https://github.com/chirag481/Sql-Project/assets/127722948/5bdf0de2-c16e-479a-83a3-12dc299a2078">
+
+# Analysis
+The analysis consists of several SQL queries, each exploring different aspects of the data. These queries include:
+
+Exploratory Data Analysis - an initial exploration of the dataset to understand its structure and contents.
+
+Customer Analysis - an analysis of the store's customers, including their demographics and purchasing behavior.
+
+Product Analysis - an analysis of the store's products, including their popularity and profitability.
+
+Sales Analysis - an analysis of the store's sales, including trends over time and geographic distribution.
+
+# Conclusion
+Through the analysis of the music store dataset using SQL, we were able to gain insights into the store's customers, products, and sales. These insights can be used to make informed business decisions, such as which products to stock, which marketing strategies to use, and which customer segments to target.
