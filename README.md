@@ -23,7 +23,7 @@ It includes information for six main tables:
 **Tools used for Project**
 >MySQL : Executing SQL file and querying ad hoc insights for business objective
 
->Power BI :Visaulizing query results with Power BI enhancing readability and understanding of query results
+>Power BI :Visualizing query results with Power BI enhancing readability and understanding of query results
 
 >PowerPoint :Create a PowerPoint presentation in attractive and engaging manner by putting all important matters in slides
 
