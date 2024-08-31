@@ -20,5 +20,12 @@ It includes information for six main tables:
 5. fact_pre_invoice_deductions: contains pre-invoice deductions information for each product
 6. fact_sales_monthly: contains monthly sales data for each product.
 
+**Tools used for Project**
+>MySQL : Executing SQL file and querying ad hoc insights for business objective
+
+>Power BI :Visaulizing query results with Power BI enhancing readability and understanding of query results
+
+>PowerPoint :Create a PowerPoint presentation in attractive and engaging manner by putting all important matters in slides
+
 
 
